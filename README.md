@@ -1,1 +1,2 @@
 # lists_Passwords_generate
+python3 lists_Passwords_generate.py
